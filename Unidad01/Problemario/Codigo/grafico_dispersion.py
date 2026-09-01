@@ -77,8 +77,3 @@ plt.savefig(
     )
 
 plt.show()
-    "grafico_dispersion.png",
-    bbox_inches='tight'
-    )
-
-plt.show()/
